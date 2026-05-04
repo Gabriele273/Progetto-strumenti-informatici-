@@ -1,0 +1,1 @@
+Questo script simula i dati cinematici della galassia di Andromeda e utilizza scipy.optimize.curve_fit per stimare la massa viriale M_200​ e la concentrazione c secondo il modello di Navarro-Frenk-White.
